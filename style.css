@@ -348,7 +348,7 @@ section .title::after{
     font-weight: 500;
     font-size: 18px;
 }
-.skills .skills-content .right .line{
+/*.skills .skills-content .right .line{
     height: 5px;
     width: 100%;
     background: lightgrey;
@@ -379,12 +379,11 @@ section .title::after{
 }
 .skills-content .right .mysql::before{
     width: 70%;
-   
 }
-
+*/
 
 /* contact section styling */
-.contact .title::after{
+/*.contact .title::after{
     content: "get in touch";
 }
 .contact .contact-content .column{
@@ -477,7 +476,7 @@ section .title::after{
 .right form .button-area button:hover{
   color: crimson;
   background: none;
-}
+}*/
 /* footer section styling */
 footer{
     background: black;
