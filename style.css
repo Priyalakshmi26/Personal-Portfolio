@@ -228,6 +228,10 @@ section .title::after{
     font-weight: 600;
     margin-bottom: 10px;
 }
+
+.about .about-content .left p{
+    text-align: justify;
+}
 .about .about-content .right{
     width: 55%;
 }
