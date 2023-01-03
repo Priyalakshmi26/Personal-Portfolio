@@ -220,18 +220,9 @@ section .title::after{
     color: red;
     content: "who i am";
 }
-.about .about-content .left{
-    width: 45%;
-}
-.about .about-content .left .text{
-    font-size: 25px;
-    font-weight: 600;
-    margin-bottom: 10px;
-}
 
-.about .about-content .left p{
-    text-align: justify;
-}
+
+
 .about .about-content .right{
     width: 55%;
 }
