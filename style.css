@@ -214,17 +214,20 @@ section .title::after{
 }
 
 /* about section styling */
+.about{
+    background-color: black;
+    color: #fff;
+}
 .about .title::after{
     content: "who i am";
 }
 .about .about-content .left{
     width: 45%;
 }
-.about .about-content .left img{
-    height: 400px;
-    width: 400px;
-    object-fit: cover;
-    border-radius: 6px;
+.about .about-content .left .text{
+    font-size: 25px;
+    font-weight: 600;
+    margin-bottom: 10px;
 }
 .about .about-content .right{
     width: 55%;
@@ -304,7 +307,10 @@ section .title::after{
 }
 
 /* skills section styling */
-
+.skills{
+ background-color: black;
+    color: #fff;
+}
 .skills .title::after{
     content: "what i know";
 }
@@ -479,9 +485,9 @@ section .title::after{
 }
 /* footer section styling */
 footer{
-    background: white;
+    background: black;
     padding: 15px 23px;
-    color: black;
+    color: white;
     text-align: center;
 }
 footer span a{
