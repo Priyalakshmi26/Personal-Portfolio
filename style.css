@@ -266,11 +266,15 @@ section .title::after{
     background: #111;
 }
 .projects .title::before,
-.contact .title::before{
+.contact .title::before,
+.about .title::before,
+.skills .title::before{
     background: #fff;
 }
 .projects .title::after,
-.contact .title::after{
+.contact .title::after,
+.about .title::after,
+.skills .title::after{
     background: #111;
     content: "what i did";
 }
