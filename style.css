@@ -220,7 +220,7 @@ section .title::after{
 }
 .about .title::after{
     background-color: black;
-    color: white;
+    color: red;
     content: "who i am";
 }
 .about .about-content .left{
@@ -318,6 +318,8 @@ section .title::after{
     color: #fff;
 }
 .skills .title::after{
+    background-color: black;
+    color: red;
     content: "what i know";
 }
 .skills .skills-content .column{
