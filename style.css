@@ -261,7 +261,7 @@ section .title::after{
 }
 
 /* projects section styling */
-.projects, .contact{
+.projects, .contact, .about, .skills{
     color:#fff;
     background: #111;
 }
