@@ -214,10 +214,7 @@ section .title::after{
 }
 
 /* about section styling */
-.about{
-    background-color: black;
-    color: white;
-}
+
 .about .title::after{
     background-color: black;
     color: red;
@@ -313,10 +310,7 @@ section .title::after{
 }
 
 /* skills section styling */
-.skills{
- background-color: black;
-    color: #fff;
-}
+
 .skills .title::after{
     background-color: black;
     color: red;
