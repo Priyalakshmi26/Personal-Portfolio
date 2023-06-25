@@ -1,3 +1,3 @@
 # Personal-Portfolio
 <h1> Live Demo:  <br>
-https://pr.priyalakshmi.tech/ </h1>
+https://priyalakshmi.tech/ </h1>
