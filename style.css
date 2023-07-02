@@ -224,8 +224,8 @@ section .title::after{
     width: 45%;
 }
 .about .about-content .left .text{
-    font-size: 25px;
-    font-weight: 600;
+    font-size: 20px;
+    font-weight: 500;
     margin-bottom: 10px;
 }
 .about .about-content .left .text span{
